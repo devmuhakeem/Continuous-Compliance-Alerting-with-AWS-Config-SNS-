@@ -48,3 +48,7 @@ Screenshot of alert email
 AWS Config and SNS configuration
 
 Step-by-step workflow documentation
+
+Full Documentation Here 
+
+https://muhakeem.hashnode.dev/automate-continuous-management-and-continuous-compliance-using-aws-config
